@@ -1,5 +1,5 @@
 
-<img src="./assets/imgbin_japanese-art-ink-wash-painting-japanese-painting.png" height="300px">
+<img src="./assets/imgbin_japanese-art-ink-wash-painting-japanese-painting.png">
 ### Hi! :wave:
 ### ༺ About ༻
 <p>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
