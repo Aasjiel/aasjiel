@@ -4,8 +4,7 @@
 <h3 align='center'> ༺ About ༻ </h3>
 <p align='center'>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aasjiel&count_private=true&show_icons=true&theme=vue)
-" />
+<img src="https://github-readme-stats.vercel.app/api?username=aasjiel&count_private=true&show_icons=true&theme=vue" />
 
 <!--
 **Aasjiel/aasjiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
