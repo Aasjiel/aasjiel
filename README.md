@@ -4,10 +4,10 @@
 <h3 align='center'> ༺ About ༻ </h3>
 <p align='center'>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
 
-<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aasjiel&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Aasjiel's github stats" /> </a><a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjiel&theme=vue" /></a>
+<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aasjiel&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe&show_icons=true&include_all_commits=true&hide_border=true" alt="Aasjiel's github stats" /> </a><a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjiel&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=wikispeedrun&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=wikispeedrun&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" />
 </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=ajlindex&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=ajlindex&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" />
 </a>
