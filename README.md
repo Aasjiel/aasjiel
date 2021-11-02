@@ -1,5 +1,5 @@
 
-<img align="center" src="./assets/imgbin_japanese-art-ink-wash-painting-japanese-painting.png">
+<img align="center" src="./assets/japanese-art-ink-wash-painting .png">
 <h1 align='center'> Hi! :wave: </h1>
 <h3 align='center'> ༺ About ༻ </h3>
 <p align='center'>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
