@@ -1,7 +1,7 @@
 
 <img align="center" src="./assets/japanese-art-ink-wash-painting .png">
-<h1 align='center'> Hi! :wave: </h1>
 <h3 align='center'> ༺ About ༻ </h3>
+<h1 align='center'> Hi! :wave: </h1>
 <p align='center'>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
 
 <a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aasjiel&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe&show_icons=true&include_all_commits=true&hide_border=true" alt="Aasjiel's github stats" /> </a><a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjiel&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe&hide_border=true" /></a>
