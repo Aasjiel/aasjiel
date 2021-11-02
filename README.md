@@ -3,10 +3,10 @@
 <h1 align='center'> Hi! :wave: </h1>
 <h3 align='center'> ༺ About ༻ </h3>
 <p align='center'>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
-<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=aasjiel&count_private=true&show_icons=true&theme=vue)
 " />
-</div>
+
 <!--
 **Aasjiel/aasjiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
