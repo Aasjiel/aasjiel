@@ -3,7 +3,6 @@
 <h1 align='center'> Hi! :wave: </h1>
 <h3 align='center'> ༺ About ༻ </h3>
 <p align='center'>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aasjiel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aasjiel/aasjiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
