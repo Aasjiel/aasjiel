@@ -12,4 +12,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=ajlindex&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" />
 </a>
 
-<span style="background-color:blue"></span>
+<span style="background-color:blue"> Hello I am Aasjiel</span>
