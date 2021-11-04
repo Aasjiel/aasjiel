@@ -11,3 +11,5 @@
 </a> <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=ajlindex&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" />
 </a>
+
+<span style="background-color:blue"></span>
