@@ -5,11 +5,11 @@
 <p align='center'>I'm Aasjiel and I'm a Software engineer from Switzerland</p>
 <div>
 <!-- <a align='center' href="https://github.com/anuraghazra/github-readme-stats"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aasjiel&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe&show_icons=true&hide_border=true&count_private=true" alt="Aasjiel's github stats"  width="45.25%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aasjiel&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe&show_icons=true&hide_border=true&count_private=true" alt="Aasjiel's github stats"  width="45%"/>
 <!--</a>-->
 
 <!--<a align='center' href="https://github.com/anuraghazra/github-readme-stats">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjiel&layout=compact&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjiel&layout=compact&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe&hide_border=true" width="45%"/>
 <!--</a>-->
 </div>
 
