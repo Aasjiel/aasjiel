@@ -16,5 +16,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=wikispeedrun&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" width= "49.69%"/>
 </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=ajlindex&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=The-Assistant&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" width="49%"/>
 </a>
