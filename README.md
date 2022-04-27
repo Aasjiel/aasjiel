@@ -1,4 +1,3 @@
-
 <img align="center" src="./assets/japanese-art-ink-wash-painting .png">
 <h1 align='center'> ༺ About ༻ </h1>
 
@@ -19,50 +18,52 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aasjiel&repo=The-Assistant&title_color=DD376D&icon_color=DD376D&text_color=333&bg_color=fffefe" width="49%"/>
 </a>
 
-```javascript
+<p align='center'>More information about Me</p>
+
+```js
 const Aasjiel = {
-    name: "Evan",
-    lastname: "[REDACTED]",
-    age: 18,
-    location: {
-        "country": "Switzerland",
-        "timezone": "UCT+1",
-    },
-    languages: [
-            "English",
-            "German",
-            "French",
-        ],
-    contact: {
-        "email": "[REDACTED]",
-        "discord": "Aasjiel#7939",
-    job: {
-        "name": "Software Engineer",
-        "company": "[REDACTED]"
-    },
-    hobbies: [
-        "Gaming",
-        "Developing",
-        "[REDACTED]",
-        "[REDACTED]"
-    ],
-    programmingLanguages: [
-        {
-            "name": JavaScript,
-            "level": "Proficient"
-            "frameworks" : [
-              "React" : {
-                "level" : "proficient"
-              },
-              "Angular" : {
-                "level" : "let's not talk about it"
-              }
-            ]
-        },
-        {
-            "name": Java,
-            "level": "Okay"
-        }
-    ],
-}    
+  name: "Evan",
+  lastname: "[REDACTED]",
+  age: 18,
+  location: {
+      "country": "Switzerland",
+      "timezone": "UCT+1",
+  },
+  languages: [
+          "English",
+          "German",
+          "French",
+      ],
+  contact: {
+      "email": "[REDACTED]",
+      "discord": "Aasjiel#7939",
+  job: {
+      "name": "Software Engineer",
+      "company": "[REDACTED]"
+  },
+  hobbies: [
+      "Gaming",
+      "Developing",
+      "[REDACTED]",
+      "[REDACTED]"
+  ],
+  programmingLanguages: [
+      {
+          "name": JavaScript,
+          "level": "Proficient"
+          "frameworks" : [
+            "React" : {
+              "level" : "proficient"
+            },
+            "Angular" : {
+              "level" : "let's not talk about it"
+            }
+          ]
+      },
+      {
+          "name": Java,
+          "level": "Okay"
+      }
+  ],
+}
 ```
