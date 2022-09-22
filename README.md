@@ -1,3 +1,8 @@
+</h1>
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;I+am+Aasjiel+Astraea....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <img align="center" src="./assets/japanese-art-ink-wash-painting .png">
 <h1 align='center'> ༺ About ༻ </h1>
 
