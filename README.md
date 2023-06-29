@@ -41,7 +41,7 @@ const Aasjiel = {
       ],
   contact: {
       "email": "[REDACTED]",
-      "discord": "Aasjiel#7939",
+      "discord": "aasjiel",
   job: {
       "name": "Software Engineer",
       "company": "[REDACTED]"
